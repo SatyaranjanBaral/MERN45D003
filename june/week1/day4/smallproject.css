@@ -1,4 +1,4 @@
-/* .grid-container{
+.grid-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-template-rows: repeat(4,1fr);
@@ -34,13 +34,10 @@
     grid-column-start: 2;
     grid-column-end: 4;
     background-color: aqua;
-} */
- /* *{
-    padding: 0px;
-    margin: 0px;
+} 
  
- } */
- nav{
+ 
+ nav{ 
     width: 110%;
     height: 50px;
     background-color: aliceblue;
