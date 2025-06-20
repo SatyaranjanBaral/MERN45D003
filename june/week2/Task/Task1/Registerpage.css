@@ -9,11 +9,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+     background: linear-gradient(135deg, #ce10b5, #9e2219);
 }
 .container{
     height: 600px;
     width: 500px;
-    background-color: rgb(7, 114, 109);
+    background-color: rgb(12, 95, 122);
     border-radius: 20px;
     border: 3px solid rgb(212, 8, 181);
 
