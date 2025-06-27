@@ -1,0 +1,50 @@
+.container {
+      max-width: 700px;
+      margin: 80px auto;
+      background: rgb(14, 14, 14);
+      padding: 30px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      height: 90vh;
+      margin-top: 30%;
+      
+    }
+    h2 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #eb1111;
+      font-size: 50px;
+    }
+
+    input, textarea {
+      width: 90%;
+      padding: 15px;
+      margin: 10px 0;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 26px;
+      color: white;
+    }
+    button {
+      width: 30%;
+      padding: 15px;
+      background-color: #e20d0d;
+      color: white;
+      border: none;
+      border-radius: 50px;
+      font-size: 16px;
+      cursor: pointer;
+      border: 2px solid rgb(242, 242, 245);
+    }
+
+    button:hover {
+      background-color: #0056b3;
+      
+    }
+
+    .success-message {
+      color: green;
+      text-align: center;
+      margin-top: 15px;
+      cursor: pointer;
+    }
